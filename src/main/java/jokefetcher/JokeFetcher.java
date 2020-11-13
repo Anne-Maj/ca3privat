@@ -15,8 +15,6 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.TimeoutException;
 import utils.HttpUtils;
 
-
-
 public class JokeFetcher {
     
     final static String CHUCK_SERVER = "https://api.chucknorris.io/jokes/random";
