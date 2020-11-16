@@ -2,5 +2,5 @@ CA3
 
 Link til frontend: https://github.com/Anne-Maj/ca3privatFrontend
 <br></br>
-Link til deployed side: http://annemajca3.surge.sh/jokes
+Link til deployed side: http://annemajca3.surge.sh/
 
